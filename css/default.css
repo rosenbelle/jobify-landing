@@ -1,0 +1,32 @@
+
+/*=== Gradient Background ===*/
+.bg-gradient,
+nav.navbar.navbar-sticky,
+h3.section-title-center:after,
+h3.section-title:after,
+.product-slider .owl-dots .owl-dot.active span,
+.card.card-accordion .card-header a,
+.pricing .list-group .list-group-item span,
+.pricing .card-body ul li span,
+.up-scroll .navbar-scrollUp.is-fixed {
+  background-image: linear-gradient(#024583, #BDF1F6);
+}
+
+.card.team .card-img .card-img-overlay {
+  background-image: linear-gradient(#024583, #BDF1F6);
+}
+
+/*=== Background color ===*/
+::-moz-selection {
+  background-color: #968FF4;
+}
+::selection {
+  background-color: #968FF4;
+}
+
+::-moz-selection {
+  background-color: #968FF4;
+}
+
+}
+
